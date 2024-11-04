@@ -13,9 +13,11 @@ Este projeto visa identificar padrões de frequência de alunos para otimizar a 
 - **Python** com **Pandas** para análise de dados.
 - **Matplotlib** e **Seaborn** para visualização.
 
+## Contribuição
+- Contribuições são bem-vindas! Fork, branch, commit e pull request.
 
 ##  Licença
 -  Licença MIT. Veja o arquivo LICENSE
 
 ```bash
-Basta colar este conteúdo em um editor de texto e salvar como `README.md` ou `README.txt` conforme preferir. Se precisar de mais ajuda, estou à disposição! &#8203;:contentReference[oaicite:0]{index=0}&#8203;
+Basta colar este conteúdo em um editor de texto e salvar como `README.md` ou `README.txt` conforme preferir. Se precisar de mais ajuda, estou à disposição! 
