@@ -23,10 +23,11 @@ O estúdio LM MULTFITNESS busca entender quais são os dias e horários com maio
 
 A estrutura do projeto é organizada da seguinte forma:
 
-/projeto-analise-dados-lm-multfitness ├── dados_presenca_ficticios.csv # Dados fictícios de presenças e mensalidades dos alunos ├── analise_dados.py # Código principal para análise de dados └── README.md # Documentação do projeto
+/projeto-analise-dados-lm-multfitness
+├── dados_presenca_ficticios.csv     # Dados fictícios de presenças e mensalidades dos alunos
+├── analise_dados.py                 # Código principal para análise de dados
+└── README.md                        # Documentação do projeto
 
-markdown
-Copiar código
 
 ## Como Executar
 
@@ -36,39 +37,19 @@ Copiar código
 - Instalar as dependências com o comando:
   ```bash
   pip install pandas matplotlib seaborn
-Passo a Passo
-Clone o repositório:
-bash
-Copiar código
+
+
+## Clone o repositório:
+  ```bash
 git clone https://github.com/seu-usuario/projeto-analise-dados-lm-multfitness.git
-Navegue até o diretório do projeto:
-bash
-Copiar código
+
+## Navegue até o diretório do projeto:
+  ```bash
 cd projeto-analise-dados-lm-multfitness
-Execute o script de análise:
-bash
-Copiar código
+
+
+## Execute o script de análise:
+
+  ```bash
 python analise_dados.py
-Visualização dos Resultados
-O script analise_dados.py gera gráficos que mostram a frequência de presenças por dia da semana, a popularidade de cada modalidade e o status de pagamento dos alunos. Os gráficos serão exibidos diretamente e também salvos como imagens no diretório do projeto.
-
-Contribuição
-Este projeto foi criado para fins de aprendizagem e desenvolvimento prático em análise de dados. Contribuições são bem-vindas! Para contribuir:
-
-Faça um fork do projeto.
-Crie uma branch para sua feature (git checkout -b minha-feature).
-Commit suas alterações (git commit -m 'Adiciona nova feature').
-Push para a branch (git push origin minha-feature).
-Abra um Pull Request.
-Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-perl
-Copiar código
-
-Esse README está pronto para ser usado diretamente no GitHub, com uma estrutura bem definida e instruções para execução e contribuição.
-
-
-
-
 
